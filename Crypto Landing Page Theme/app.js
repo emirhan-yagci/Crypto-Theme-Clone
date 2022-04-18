@@ -101,7 +101,7 @@ function navHight(){
             if(hightActive){
                 navItems_hight[4].classList.remove("nav-hightlight2");
             }
-            console.log(hightActive);
+           
             navItems_hight[Nindex +1].classList.add("nav-hightlight");
            
            
