@@ -14,5 +14,4 @@ the images are may be copyrighted do not used without permission(https://element
 
 I am not responsible for any use!
 
-DEMO: (crypto-theme-clone-emirhan-yac.netlify.app)
-
+DEMO: crypto-theme-clone-emirhan-yac.netlify.app
